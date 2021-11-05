@@ -16,10 +16,13 @@
 .logo img{
     height: 40px;
 }
+.logo h1{
+    margin-left: 10px;
+}
 nav {
     position: relative;
     height: 30px;
-    width: 52%;
+    width: 51%;
     align-items: center;
     left: 470px;
     background: rgba(0, 20, 0, 0.5);    
@@ -39,6 +42,7 @@ nav button{
     background-color: #F19201;
     height: 30px;
     width: 90px;
+    color: white;
 }
 .premium{
     background-image: url("images/image2.png");
@@ -46,4 +50,20 @@ nav button{
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: -90px;
+}
+.premium h1{
+    position: relative;
+    color: white;
+    top: 200px;
+    left: 100px;
+}
+.premium button{
+    position: relative;
+    top: 300px;
+    left: 100px;
+    border: none;
+    background-color: #F19201;
+    height: 30px;
+    width: 90px;
+    color: white;
 }
