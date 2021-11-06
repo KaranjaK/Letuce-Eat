@@ -73,3 +73,47 @@ nav button{
     top: -170px;
     height: 700px;
 }
+.services-top{
+    position: relative;
+    top: 50px;
+    
+}
+.services-top h1{
+    color: #F19201;
+    display: flex;
+    justify-content: center;
+}
+.services-top p{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    line-height: 30px;
+}
+.services-box{
+    position:relative;
+    float: left;
+    margin-right: 20px;
+    top: 80px;
+    width: 300px;
+    height: 250px;
+    left: 150px;
+    padding-top: 30px;
+    background-color: white;
+    align-content: center;
+    text-align: center;
+}
+.services-box h1{
+    background-color: #F19201;
+    width: 70px;
+    height: 70px;
+    clip-path: circle(50% at 50% 50%);
+    margin-left: 40%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services-box p{
+    font-style: italic;
+}
