@@ -64,6 +64,12 @@ nav button{
     border: none;
     background-color: #F19201;
     height: 30px;
-    width: 90px;
+    width: 100px;
     color: white;
+}
+.services{
+    background-color:rgba(0, 20, 0, 0.1);
+    position: relative;
+    top: -170px;
+    height: 700px;
 }
