@@ -28,12 +28,11 @@ body{
 }
 nav {
     position: relative;
-    height: 30px;
-    width: 51%;
+    height: 40px;
+    width: 52%;
     align-items: center;
     left: 470px;
-    background: rgba(0, 20, 0, 0.5);    
-    top: -15px; 
+    background: rgba(0, 20, 0, 0.5); 
     padding-top: 10px; 
     padding-bottom: 5px;
 }
