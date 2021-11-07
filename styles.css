@@ -121,11 +121,38 @@ nav button{
     line-height: 30px;
 }
 .reviews{
-    margin-top: -170px;
-    height: 500px;
+    margin-top: -190px;
+    height: 550px;
     background-color: black;
     background-image: url(images/image1.png);
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
+}
+.reviews-text{
+    float: right;
+    display: block;
+    align-content: center;
+    text-align: center;
+    margin-right: 150px;
+}
+.reviews-text h1{
+    font-size: 60px;
+}
+.reviews-text hr{
+    border: none;
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    margin-top: -20px;
+}
+.reviews-text h3{
+    margin-top: 60px;
+}
+.reviews-text p{
+    font-style: italic;
+    line-height: 25px;
+}
+.reviews-text h4{
+    margin-top: 50px;
 }
