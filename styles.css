@@ -199,4 +199,25 @@ nav button{
     background-image: url(images/image8.png);
     height: 400px;
     background-size: contain;
+    align-content: center;
+    text-align: center;
+    margin-top: -20px;
+    color: white;
+}
+.book p{
+    padding-top: 80px;
+    font-size: 30px;
+    font-style: italic;
+}
+.book h1{
+    padding: 20px
+}
+.book button{
+    background-color:unset;
+    color: white;
+    border: 2px solid white;
+    width: 140px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 18px;
 }
