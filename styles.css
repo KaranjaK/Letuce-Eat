@@ -159,7 +159,15 @@ nav button{
 .menu{
     background-color:rgba(0, 20, 0, 0.1);
     height: 700px;
-    margin-top: -20px;
+    margin-top: -21px;
     align-content: center;
     text-align: center;
+}
+.menu h1 {
+    color: #F19201;
+    padding-top: 60px;
+}
+.menu p{
+    font-style: italic;
+    line-height: 25px;
 }
