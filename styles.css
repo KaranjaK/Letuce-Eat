@@ -118,4 +118,14 @@ nav button{
 }
 .services-box p{
     font-style: italic;
+    line-height: 30px;
+}
+.reviews{
+    margin-top: -170px;
+    height: 500px;
+    background-color: black;
+    background-image: url(images/image1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
 }
