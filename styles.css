@@ -156,3 +156,10 @@ nav button{
 .reviews-text h4{
     margin-top: 50px;
 }
+.menu{
+    background-color:rgba(0, 20, 0, 0.1);
+    height: 700px;
+    margin-top: -20px;
+    align-content: center;
+    text-align: center;
+}
