@@ -195,3 +195,8 @@ nav button{
     width: 100px;
     height: 30px;
 }
+.book{
+    background-image: url(images/image8.png);
+    height: 400px;
+    background-size: contain;
+}
